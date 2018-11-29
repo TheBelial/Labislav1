@@ -12,9 +12,9 @@ namespace Percentage_Checker
         {
            
             string sToCheck;
-           // Console.WriteLine("Enter line you want to check:");
-           // sToCheck = Console.ReadLine();
-
+            // Console.WriteLine("Enter line you want to check:");
+            // sToCheck = Console.ReadLine();
+            Console.WriteLine("greetings travaler");
             while (true)
             {
                 Console.WriteLine("Enter line you want to check:");
