@@ -14,7 +14,7 @@ namespace Percentage_Checker
             string sToCheck;
             // Console.WriteLine("Enter line you want to check:");
             // sToCheck = Console.ReadLine();
-            Console.WriteLine("Are you shivering?Are you afraid");
+            Console.WriteLine("heh");
             while (true)
             {
                 Console.WriteLine("Enter line you want to check:");
