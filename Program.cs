@@ -10,7 +10,7 @@ namespace Percentage_Checker
     {
         static void Main(string[] args)
         {
-           //help me
+           //help me leha
             string sToCheck;
             // Console.WriteLine("Enter line you want to check:");
             // sToCheck = Console.ReadLine();
